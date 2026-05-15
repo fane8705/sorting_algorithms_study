@@ -1,12 +1,5 @@
 # Analiza performantelor algoritmilor de sortare
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Algorithms](https://img.shields.io/badge/Algorithms-9-success)
-![Benchmark](https://img.shields.io/badge/Benchmark-Performance%20Analysis-important)
-![Hardware](https://img.shields.io/badge/Hardware-Apple%20M4%20Pro-black)
-![RAM](https://img.shields.io/badge/RAM-48GB-blueviolet)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-
 Acest proiect reprezinta un studiu experimental realizat in cadrul disciplinei Algoritmi si Structuri de Date si are ca scop compararea performantelor mai multor algoritmi de sortare utilizand implementari dezvoltate in Python.
 
 Proiectul include:
